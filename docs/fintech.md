@@ -2,7 +2,7 @@
 
 A curated collection of major FinTech, Banking, Payments, Trading, Compliance, and Financial Infrastructure Frameworks used for:
 
-# Table of Contents
+## Table of Contents
 
 1. [Payment Processing Frameworks](#1-payment-processing-frameworks)
 2. [Banking & Core Banking Frameworks](#2-banking-core-banking-frameworks)
@@ -21,7 +21,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 1. Payment Processing Frameworks
+## 1. Payment Processing Frameworks
 
 | Framework    | Description                  | Language             | Links                                                                                                                         |
 | ------------ | ---------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 2. Banking & Core Banking Frameworks
+## 2. Banking & Core Banking Frameworks
 
 | Framework             | Description                  | Language              | Links                                                                                                                                           |
 | --------------------- | ---------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 3. Open Banking & API Frameworks
+## 3. Open Banking & API Frameworks
 
 | Framework       | Description              | Language              | Links                                                                                                                   |
 | --------------- | ------------------------ | --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 4. Trading & Investment Frameworks
+## 4. Trading & Investment Frameworks
 
 | Framework  | Description                   | Language                  | Links                                                                                                                                    |
 | ---------- | ----------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 5. Risk Management Frameworks
+## 5. Risk Management Frameworks
 
 | Framework      | Description                   | Language              | Links                                                                                                                                                      |
 | -------------- | ----------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,7 +81,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 6. Fraud Detection & AML Frameworks
+## 6. Fraud Detection & AML Frameworks
 
 | Framework       | Description                 | Language              | Links                                                                                                                |
 | --------------- | --------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -93,7 +93,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 7. RegTech & Compliance Frameworks
+## 7. RegTech & Compliance Frameworks
 
 | Framework          | Description                  | Language              | Links                                                                    |
 | ------------------ | ---------------------------- | --------------------- | ------------------------------------------------------------------------ |
@@ -105,7 +105,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 8. InsurTech Frameworks
+## 8. InsurTech Frameworks
 
 | Framework        | Description                | Language              | Links                                                              |
 | ---------------- | -------------------------- | --------------------- | ------------------------------------------------------------------ |
@@ -117,7 +117,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 9. WealthTech & Investment Frameworks
+## 9. WealthTech & Investment Frameworks
 
 | Framework            | Description                  | Language              | Links                                                                                                             |
 | -------------------- | ---------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -129,7 +129,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 10. Lending & Credit Frameworks
+## 10. Lending & Credit Frameworks
 
 | Framework      | Description                   | Language              | Links                                                        |
 | -------------- | ----------------------------- | --------------------- | ------------------------------------------------------------ |
@@ -141,7 +141,7 @@ A curated collection of major FinTech, Banking, Payments, Trading, Compliance, a
 
 ---
 
-# 11. Cryptocurrency & Digital Asset Frameworks
+## 11. Cryptocurrency & Digital Asset Frameworks
 
 | Framework      | Description                 | Language                  | Links                                                                                                                                |
 | -------------- | --------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

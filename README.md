@@ -22,17 +22,21 @@
 - [Contributing](#contributing)
 
 
+
 ## Documentation Files
 
-- *[docs/web-development.md](docs/web-development.md) - Web frontend, backend, full-stack, CSS, APIs, static sites, real-time, testing, CMS, and security.*
-- *[docs/mobile-development.md](docs/mobile-development.md) - Mobile frameworks for cross-platform, native Android/iOS, hybrid apps, PWAs, backend/BaaS, UI, testing, AR/VR, security, analytics, and payments.*
-- *[docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) - AI and machine learning frameworks for deep learning, NLP, vision, reinforcement learning, generative AI, MLOps, AutoML, federated learning, hardware, labeling, and ethics.*
-- *[docs/data-science-frameworks.md](docs/data-science-frameworks.md) - Data science frameworks for manipulation, big data, visualization, pipelines, statistics, data quality, feature engineering, storage, EDA, notebooks, governance, and BI.*
-- *[docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) - Blockchain and Web3 frameworks for smart contracts, dapps, decentralized storage, wallets, interoperability, layer 1/2, oracles, and token infrastructure.*
-- *[docs/robotics.md](docs/robotics.md) - *
-- *[docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) - Cloud and DevOps frameworks for IaC, CI/CD, containerization, orchestration, serverless, monitoring, security, GitOps, networking, cost management, testing, and artifact registries.*
-- *[docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) - Cybersecurity frameworks for pentesting, network security, identity, cryptography, SIEM, app security, malware analysis, forensics, cloud security, endpoint, compliance, red/blue teams, vulnerability management, and threat intelligence.*
-- *[docs/enterprise-software-frameworks.md](docs/enterprise-software-frameworks.md) - Enterprise Software Frameworks used for building scalable business applications, cloud platforms, automation systems, ERP/CRM solutions, microservices, enterprise security, DevOps pipelines, AI platforms, and testing infrastructures.* 
+- *[docs/web-development.md](docs/web-development.md) – Web frontend, backend, full-stack, CSS, APIs, static sites, real-time, testing, CMS, and security.*
+- *[docs/mobile-development.md](docs/mobile-development.md) – Mobile frameworks for cross-platform, native Android/iOS, hybrid apps, PWAs, backend/BaaS, UI, testing, AR/VR, security, analytics, and payments.*
+- *[docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) – AI and machine learning frameworks for deep learning, NLP, vision, reinforcement learning, generative AI, MLOps, AutoML, federated learning, hardware, labeling, and ethics.*
+- *[docs/data-science-frameworks.md](docs/data-science-frameworks.md) – Data science frameworks for manipulation, big data, visualization, pipelines, statistics, data quality, feature engineering, storage, EDA, notebooks, governance, and BI.*
+- *[docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) – Blockchain and Web3 frameworks for smart contracts, dapps, decentralized storage, wallets, interoperability, layer 1/2, oracles, and token infrastructure.*
+- *[docs/enterprise-software-frameworks.md](docs/enterprise-software-frameworks.md) – Enterprise software frameworks for scalable business apps, cloud platforms, automation, ERP/CRM, microservices, security, DevOps, and AI platforms.*
+- *[docs/game-development-frameworks.md](docs/game-development-frameworks.md) – Game engines, 2D/3D frameworks, physics, networking, audio, AI, UI, testing, analytics, and monetization.*
+- *[docs/robotics.md](docs/robotics.md) – Robotics frameworks for simulation, control, perception, navigation, hardware integration, and automation.*
+- *[docs/iot-frameworks.md](docs/iot-frameworks.md) – IoT frameworks for device management, connectivity, edge computing, protocols, and security.*
+- *[docs/fintech.md](docs/fintech.md) – FinTech frameworks for payments, banking, trading, blockchain, compliance, and analytics.*
+- *[docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) – Cloud and DevOps frameworks for IaC, CI/CD, containerization, orchestration, serverless, monitoring, security, GitOps, networking, cost management, testing, and artifact registries.*
+- *[docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) – Cybersecurity frameworks for pentesting, network security, identity, cryptography, SIEM, app security, malware analysis, forensics, cloud security, endpoint, compliance, red/blue teams, vulnerability management, and threat intelligence.*
 
 ## Contributing
 
