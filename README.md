@@ -11,6 +11,7 @@
 - [Mobile Development Frameworks](docs/mobile-development.md)
 - [AI/ML Frameworks](docs/ai-ml-frameworks.md)
 - [Data Science Frameworks](docs/data-science-frameworks.md)
+- [Blockchain & Web3 Frameworks](docs/blockchain-web3-frameworks.md)
 - [Cloud & DevOps Frameworks](docs/cloud-devops-frameworks.md)
 - [Cybersecurity Frameworks](docs/cybersecurity-frameworks.md)
 - [Contributing](#contributing)
@@ -19,9 +20,10 @@
 ## Documentation Files
 
 - *[docs/web-development.md](docs/web-development.md) - Web frontend, backend, full-stack, CSS, APIs, static sites, real-time, testing, CMS, and security.*
-- *[docs/mobile-development.md](docs/mobile-development.md)) - Mobile frameworks for cross-platform, native Android/iOS, hybrid apps, PWAs, backend/BaaS, UI, testing, AR/VR, security, analytics, and payments.*
+- *[docs/mobile-development.md](docs/mobile-development.md) - Mobile frameworks for cross-platform, native Android/iOS, hybrid apps, PWAs, backend/BaaS, UI, testing, AR/VR, security, analytics, and payments.*
 - *[docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) - AI and machine learning frameworks for deep learning, NLP, vision, reinforcement learning, generative AI, MLOps, AutoML, federated learning, hardware, labeling, and ethics.*
 - *[docs/data-science-frameworks.md](docs/data-science-frameworks.md) - Data science frameworks for manipulation, big data, visualization, pipelines, statistics, data quality, feature engineering, storage, EDA, notebooks, governance, and BI.*
+- *[docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) - Blockchain and Web3 frameworks for smart contracts, dapps, decentralized storage, wallets, interoperability, layer 1/2, oracles, and token infrastructure.*
 - *[docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) - Cloud and DevOps frameworks for IaC, CI/CD, containerization, orchestration, serverless, monitoring, security, GitOps, networking, cost management, testing, and artifact registries.*
 - *[docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) - Cybersecurity frameworks for pentesting, network security, identity, cryptography, SIEM, app security, malware analysis, forensics, cloud security, endpoint, compliance, red/blue teams, vulnerability management, and threat intelligence.*
 
