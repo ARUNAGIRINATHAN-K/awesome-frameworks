@@ -12,6 +12,11 @@
 - [AI/ML Frameworks](docs/ai-ml-frameworks.md)
 - [Data Science Frameworks](docs/data-science-frameworks.md)
 - [Blockchain & Web3 Frameworks](docs/blockchain-web3-frameworks.md)
+- [Enterprise Software Frameworks](docs/enterprise-software-frameworks.md)
+- [Game Development Frameworks](docs/game-development-frameworks.md)
+- [Robotics](docs/robotics.md)
+- [IoT Frameworks](docs/iot-frameworks.md)
+- [FinTech](docs/fintech.md)
 - [Cloud & DevOps Frameworks](docs/cloud-devops-frameworks.md)
 - [Cybersecurity Frameworks](docs/cybersecurity-frameworks.md)
 - [Contributing](#contributing)
@@ -24,8 +29,10 @@
 - *[docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) - AI and machine learning frameworks for deep learning, NLP, vision, reinforcement learning, generative AI, MLOps, AutoML, federated learning, hardware, labeling, and ethics.*
 - *[docs/data-science-frameworks.md](docs/data-science-frameworks.md) - Data science frameworks for manipulation, big data, visualization, pipelines, statistics, data quality, feature engineering, storage, EDA, notebooks, governance, and BI.*
 - *[docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) - Blockchain and Web3 frameworks for smart contracts, dapps, decentralized storage, wallets, interoperability, layer 1/2, oracles, and token infrastructure.*
+- *[docs/robotics.md](docs/robotics.md) - *
 - *[docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) - Cloud and DevOps frameworks for IaC, CI/CD, containerization, orchestration, serverless, monitoring, security, GitOps, networking, cost management, testing, and artifact registries.*
 - *[docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) - Cybersecurity frameworks for pentesting, network security, identity, cryptography, SIEM, app security, malware analysis, forensics, cloud security, endpoint, compliance, red/blue teams, vulnerability management, and threat intelligence.*
+- *[docs/enterprise-software-frameworks.md](docs/enterprise-software-frameworks.md) - Enterprise Software Frameworks used for building scalable business applications, cloud platforms, automation systems, ERP/CRM solutions, microservices, enterprise security, DevOps pipelines, AI platforms, and testing infrastructures.* 
 
 ## Contributing
 
