@@ -32,7 +32,7 @@
 | Amazon Lumberyard | AWS-based game engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/aws/Lumberyard) • [Website](https://aws.amazon.com/lumberyard/) |
 | O3DE (Open 3D Engine) | Open-source 3D game engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/o3de/o3de) • [Website](https://o3de.org) |
 | GameMaker | 2D game development engine | <kbd>🏷️ GML</kbd> | [GitHub](https://github.com/GameMakerEngine) • [Website](https://gamemaker.io) |
-| RPG Maker | RPG game creation engine | <kbd>🏷️ Ruby</kbd> | [GitHub](https://github.com/search?q=RPG+Maker) • [Website](https://www.rpgmakerweb.com) |
+| RPG Maker | RPG game creation engine | <kbd>🏷️ Ruby</kbd> | [GitHub](https://github.com/rpgmaker) • [Website](https://www.rpgmakerweb.com) |
 | Construct | Browser-based game engine | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/Scirra) • [Website](https://www.construct.net) |
 | GDevelop | No-code game engine | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/4ian/GDevelop) • [Website](https://gdevelop.io) |
 | Defold | Lightweight cross-platform engine | <kbd>🏷️ Lua</kbd> | [GitHub](https://github.com/defold/defold) • [Website](https://defold.com) |
@@ -105,10 +105,10 @@
 | Cocos Creator | Mobile game development | <kbd>🏷️ TypeScript</kbd> | [GitHub](https://github.com/cocos/cocos-engine) • [Website](https://www.cocos.com/en/creator) |
 | Flame | Flutter mobile game engine | <kbd>🏷️ Dart</kbd> | [GitHub](https://github.com/flame-engine/flame) • [Website](https://flame-engine.org) |
 | LibGDX | Android game framework | <kbd>🏷️ Java</kbd> | [GitHub](https://github.com/libgdx/libgdx) • [Website](https://libgdx.com) |
-| SpriteKit | iOS 2D game framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/search?q=SpriteKit) • [Website](https://developer.apple.com/documentation/spritekit) |
-| SceneKit | iOS 3D game framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/search?q=SceneKit) • [Website](https://developer.apple.com/documentation/scenekit) |
-| GameplayKit | iOS game logic framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/search?q=GameplayKit) • [Website](https://developer.apple.com/documentation/gameplaykit) |
-| RealityKit | iOS AR game framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/search?q=RealityKit) • [Website](https://developer.apple.com/documentation/realitykit) |
+| SpriteKit | iOS 2D game framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/apple) • [Website](https://developer.apple.com/documentation/spritekit) |
+| SceneKit | iOS 3D game framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/apple) • [Website](https://developer.apple.com/documentation/scenekit) |
+| GameplayKit | iOS game logic framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/apple) • [Website](https://developer.apple.com/documentation/gameplaykit) |
+| RealityKit | iOS AR game framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/apple) • [Website](https://developer.apple.com/documentation/realitykit) |
 | Solar2D (Corona) | Cross-platform mobile framework | <kbd>🏷️ Lua</kbd> | [GitHub](https://github.com/coronalabs/corona) • [Website](https://solar2d.com) |
 | Marmalade | Mobile game SDK | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/marmalade) • [Website](https://github.com/marmalade) |
 | Gideros Mobile | Mobile game framework | <kbd>🏷️ Lua</kbd> | [GitHub](https://github.com/gideros/gideros) • [Website](http://giderosmobile.com) |
@@ -118,7 +118,7 @@
 | Titanium | Mobile game framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/tidev/titanium-sdk) • [Website](https://titaniumsdk.com) |
 | Oxygine | Mobile 2D game framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/oxygine/oxygine-framework) • [Website](http://oxygine.org) |
 | HaxeFlixel Mobile | Cross-platform mobile games | <kbd>🏷️ Haxe</kbd> | [GitHub](https://github.com/HaxeFlixel/flixel) • [Website](https://haxeflixel.com) |
-| Kenney Assets | Mobile game asset framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Kenney+Assets) • [Website](https://www.kenney.nl) |
+| Kenney Assets | Mobile game asset framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/kenneyNL) • [Website](https://www.kenney.nl) |
 | DeltaDNA | Mobile game analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/deltaDNA) • [Website](https://unity.com/solutions/gaming-services/analytics) |
 
 ## VR/AR Game Frameworks
@@ -133,17 +133,17 @@
 | WebXR | Browser-based XR framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/immersive-web/webxr) • [Website](https://immersiveweb.dev) |
 | A-Frame | Web VR framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/aframevr/aframe) • [Website](https://aframe.io) |
 | AR.js | Web AR framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/AR-js-org/AR.js) • [Website](https://ar-js-org.github.io/AR.js-Docs/) |
-| Vuforia | Cross-platform AR SDK | <kbd>🏷️ C++/Java</kbd> | [GitHub](https://github.com/search?q=Vuforia) • [Website](https://developer.vuforia.com) |
-| ARKit | Apple AR framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/search?q=ARKit) • [Website](https://developer.apple.com/augmented-reality/arkit/) |
+| Vuforia | Cross-platform AR SDK | <kbd>🏷️ C++/Java</kbd> | [GitHub](https://github.com/Vuforia) • [Website](https://developer.vuforia.com) |
+| ARKit | Apple AR framework | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/apple) • [Website](https://developer.apple.com/documentation/arkit/) |
 | ARCore | Google AR framework | <kbd>🏷️ Kotlin</kbd> | [GitHub](https://github.com/google-ar/arcore-android-sdk) • [Website](https://developers.google.com/ar) |
 | MRTK | Microsoft mixed reality toolkit | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/microsoft/MixedRealityToolkit-Unity) • [Website](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-v2/) |
 | Babylon.js XR | Web XR framework | <kbd>🏷️ TypeScript</kbd> | [GitHub](https://github.com/BabylonJS/Babylon.js) • [Website](https://doc.babylonjs.com/features/featuresDeepDive/webXR) |
 | PlayCanvas XR | WebXR game framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/playcanvas/engine) • [Website](https://developer.playcanvas.com/en/user-manual/xr/) |
-| 8th Wall | Web-based AR game framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/search?q=8th+Wall) • [Website](https://www.8thwall.com) |
-| Wikitude | Location-based AR framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/search?q=Wikitude) • [Website](https://www.wikitude.com) |
+| 8th Wall | Web-based AR game framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/8thwall) • [Website](https://www.8thwall.com) |
+| Wikitude | Location-based AR framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/Wikitude) • [Website](https://www.wikitude.com) |
 | Zappar | AR development framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/zappar-xr) • [Website](https://www.zappar.com) |
-| EasyAR | Cross-platform AR engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=EasyAR) • [Website](https://www.easyar.com) |
-| Spark AR | Meta AR effects framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/search?q=Spark+AR) • [Website](https://sparkar.facebook.com/ar-studio/) |
+| EasyAR | Cross-platform AR engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/EasyAR) • [Website](https://www.easyar.com) |
+| Spark AR | Meta AR effects framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/facebook) • [Website](https://sparkar.facebook.com/ar-studio/) |
 | Niantic Lightship | AR world mapping framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/niantic-lightship) • [Website](https://lightship.dev) |
 
 ## Game Physics Frameworks
@@ -153,7 +153,7 @@
 | Bullet Physics | 3D physics simulation | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/bulletphysics/bullet3) • [Website](https://pybullet.org) |
 | Box2D | 2D physics engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/erincatto/box2d) • [Website](https://box2d.org) |
 | PhysX | NVIDIA physics engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/NVIDIA-Omniverse/PhysX) • [Website](https://developer.nvidia.com/physx-sdk) |
-| Havok Physics | AAA game physics engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=Havok+Physics) • [Website](https://www.havok.com/products/havok-physics/) |
+| Havok Physics | AAA game physics engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/Havok) • [Website](https://www.havok.com/products/havok-physics/) |
 | Chipmunk2D | Lightweight 2D physics | <kbd>🏷️ C</kbd> | [GitHub](https://github.com/slembcke/Chipmunk2D) • [Website](https://chipmunk-physics.net) |
 | ReactPhysics3D | Open-source 3D physics | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/DanielChappuis/reactphysics3d) • [Website](https://www.reactphysics3d.com) |
 | Jolt Physics | High-performance physics | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/jrouwe/JoltPhysics) • [Website](https://jrouwe.github.io/JoltPhysics/) |
@@ -175,7 +175,7 @@
 
 | Framework | Description | Language | Docs |
 |------------|-------------|-----------|-------|
-| Photon Engine | Real-time multiplayer framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Photon+Engine) • [Website](https://www.photonengine.com) |
+| Photon Engine | Real-time multiplayer framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/PhotonEngine) • [Website](https://www.photonengine.com) |
 | Mirror | Unity networking framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/MirrorNetworking/Mirror) • [Website](https://mirror-networking.com) |
 | Netcode for GameObjects | Unity multiplayer framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) • [Website](https://docs-multiplayer.unity3d.com/netcode/current/about) |
 | Fishnet | Unity networking solution | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/FirstGearGames/FishNet) • [Website](https://fish-networking.gitbook.io/docs/) |
@@ -188,24 +188,24 @@
 | RakNet | Game networking library | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/facebookarchive/RakNet) • [Website](https://github.com/facebookarchive/RakNet) |
 | GameNetworkingSockets | Valve networking library | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/ValveSoftware/GameNetworkingSockets) • [Website](https://github.com/ValveSoftware/GameNetworkingSockets) |
 | LiteNetLib | Reliable UDP library | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/RevenantX/LiteNetLib) • [Website](https://github.com/RevenantX/LiteNetLib) |
-| DarkRift 2 | Unity multiplayer framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=DarkRift+2) • [Website](https://darkriftnetworking.com/DarkRift2) |
-| SmartFoxServer | Multiplayer game server | <kbd>🏷️ Java</kbd> | [GitHub](https://github.com/search?q=SmartFoxServer) • [Website](https://www.smartfoxserver.com) |
+| DarkRift 2 | Unity multiplayer framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/DarkRiftNetworking/DarkRift2) • [Website](https://darkriftnetworking.com/DarkRift2) |
+| SmartFoxServer | Multiplayer game server | <kbd>🏷️ Java</kbd> | [GitHub](https://github.com/SmartFoxServer) • [Website](https://www.smartfoxserver.com) |
 | Colyseus | Multiplayer game framework | <kbd>🏷️ TypeScript</kbd> | [GitHub](https://github.com/colyseus/colyseus) • [Website](https://colyseus.io) |
 | Agones | Kubernetes game server | <kbd>🏷️ Go</kbd> | [GitHub](https://github.com/googleforgames/agones) • [Website](https://agones.dev) |
 | Open Match | Google matchmaking framework | <kbd>🏷️ Go</kbd> | [GitHub](https://github.com/googleforgames/open-match) • [Website](https://open-match.dev) |
-| Edgegap | Game server orchestration | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Edgegap) • [Website](https://edgegap.com) |
+| Edgegap | Game server orchestration | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/Edgegap) • [Website](https://edgegap.com) |
 | Heroic Labs | Game backend platform | <kbd>🏷️ Go</kbd> | [GitHub](https://github.com/heroiclabs) • [Website](https://heroiclabs.com) |
 
 ## Game Audio Frameworks
 
 | Framework | Description | Language | Docs |
 |------------|-------------|-----------|-------|
-| FMOD | Professional audio engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=FMOD) • [Website](https://www.fmod.com) |
-| Wwise | AAA game audio middleware | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=Wwise) • [Website](https://www.audiokinetic.com/en/wwise) |
+| FMOD | Professional audio engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/fmod) • [Website](https://www.fmod.com) |
+| Wwise | AAA game audio middleware | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/audiokinetic) • [Website](https://www.audiokinetic.com/en/wwise) |
 | OpenAL | Cross-platform 3D audio | <kbd>🏷️ C</kbd> | [GitHub](https://github.com/kcat/openal-soft) • [Website](https://www.openal.org) |
 | SoLoud | Lightweight game audio | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/jarikomppa/soloud) • [Website](http://sol.gfxile.net/soloud/) |
-| irrKlang | Cross-platform sound engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=irrKlang) • [Website](https://www.ambiera.com/irrklang/) |
-| BASS | Audio library framework | <kbd>🏷️ C</kbd> | [GitHub](https://github.com/search?q=BASS+audio) • [Website](https://www.un4seen.com) |
+| irrKlang | Cross-platform sound engine | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/ambiera/irrklang) • [Website](https://www.ambiera.com/irrklang/) |
+| BASS | Audio library framework | <kbd>🏷️ C</kbd> | [GitHub](https://github.com/jaakkopasanen) • [Website](https://www.un4seen.com) |
 | Pygame Mixer | Python game audio | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/pygame/pygame) • [Website](https://www.pygame.org/docs/ref/mixer.html) |
 | Web Audio API | Browser audio framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/WebAudio/web-audio-api) • [Website](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) |
 | Howler.js | JavaScript audio framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/goldfire/howler.js) • [Website](https://howlerjs.com) |
@@ -227,46 +227,46 @@
 |------------|-------------|-----------|-------|
 | Unity ML-Agents | ML for Unity games | <kbd>🏷️ Python/C#</kbd> | [GitHub](https://github.com/Unity-Technologies/ml-agents) • [Website](https://unity.com/products/ml-agents) |
 | Godot AI | Godot AI framework | <kbd>🏷️ GDScript</kbd> | [GitHub](https://github.com/godot-extended-libraries) • [Website](https://docs.godotengine.org/en/stable/tutorials/ai/index.html) |
-| Behavior Designer | Unity behavior tree framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Behavior+Designer) • [Website](https://opsive.com/asset/behavior-designer/) |
-| NodeCanvas | Unity AI framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=NodeCanvas) • [Website](https://nodecanvas.paradoxnotion.com) |
+| Behavior Designer | Unity behavior tree framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Opsive/BehaviorDesigner) • [Website](https://opsive.com/asset/behavior-designer/) |
+| NodeCanvas | Unity AI framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/ParadoxNotion/NodeCanvas) • [Website](https://nodecanvas.paradoxnotion.com) |
 | Apex Utility AI | Utility-based game AI | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/ApexGameTools/Apex-Utility-AI) • [Website](https://www.apexgametools.com/) |
 | FluentBehaviorTree | Behavior tree framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/ashleydavis/Fluent-Behaviour-Tree) • [Website](https://github.com/ashleydavis/Fluent-Behaviour-Tree) |
 | NPBehave | Unity behavior tree library | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/meniku/NPBehave) • [Website](https://github.com/meniku/NPBehave) |
 | Panda BT | Behavior tree for Panda3D | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/panda-bt/panda-bt.github.io) • [Website](https://panda-bt.github.io/) |
-| GOAP | Goal-oriented action planning | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=GOAP) • [Website](https://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793) |
+| GOAP | Goal-oriented action planning | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/shaunmurphy/GOAP) • [Website](https://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793) |
 | Recast Navigation | Pathfinding & navmesh framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/recastnavigation/recastnavigation) • [Website](https://github.com/recastnavigation/recastnavigation) |
 | Detour | Navigation mesh framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/recastnavigation/recastnavigation) • [Website](https://github.com/recastnavigation/recastnavigation) |
-| A* Pathfinding | Popular pathfinding framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=A*+Pathfinding+Project) • [Website](https://arongranberg.com/astar/) |
+| A* Pathfinding | Popular pathfinding framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/arongranberg/astar) • [Website](https://arongranberg.com/astar/) |
 | PathfindingJS | JavaScript pathfinding | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/qiao/PathFinding.js) • [Website](http://qiao.github.io/PathFinding.js/visual/) |
 | EasyAI | Python game AI framework | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/ritwiq/easyAI) • [Website](https://github.com/ritwiq/easyAI) |
 | OpenSteer | Steering behaviors framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/meshula/OpenSteer) • [Website](http://opensteer.sourceforge.net) |
 | CritterAI | Unity navigation framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/critterai/critterai-nav-unity) • [Website](http://www.critterai.org/) |
 | GameAIPro | Game AI techniques library | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/gameaipro) • [Website](http://www.gameaipro.com) |
 | SimpleAI | Behavior tree game AI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/mgerhardy/simpleai) • [Website](https://github.com/mgerhardy/simpleai) |
-| UtilityAI | Utility-based AI system | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Utility+AI) • [Website](https://www.gamedeveloper.com/programming/behavior-trees-for-ai-how-they-work) |
+| UtilityAI | Utility-based AI system | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Unity-Technologies) • [Website](https://www.gamedeveloper.com/programming/behavior-trees-for-ai-how-they-work) |
 | Kognition | Unity cognitive AI framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/EmilJohansson/Kognition) • [Website](https://github.com/EmilJohansson/Kognition) |
 
 ## Game UI Frameworks
 
 | Framework | Description | Language | Docs |
 |------------|-------------|-----------|-------|
-| Unity UI (uGUI) | Unity UI system | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Unity+uGUI) • [Website](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/index.html) |
-| Unity UI Toolkit | Modern Unity UI framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Unity+UI+Toolkit) • [Website](https://docs.unity3d.com/Manual/UI-Toolkit.html) |
-| Unreal UMG | Unreal UI framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=Unreal+UMG) • [Website](https://docs.unrealengine.com/en-US/InteractiveExperiences/UMG/) |
+| Unity UI (uGUI) | Unity UI system | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Unity-Technologies/com.unity.ugui) • [Website](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/index.html) |
+| Unity UI Toolkit | Modern Unity UI framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Unity-Technologies/com.unity.ui) • [Website](https://docs.unity3d.com/Manual/UI-Toolkit.html) |
+| Unreal UMG | Unreal UI framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/EpicGames/UnrealEngine) • [Website](https://docs.unrealengine.com/en-US/InteractiveExperiences/UMG/) |
 | Noesis GUI | XAML-based game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/Noesis/NoesisGUI-Unity-Samples) • [Website](https://www.noesisengine.com) |
 | ImGui | Immediate mode GUI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/ocornut/imgui) • [Website](https://github.com/ocornut/imgui) |
 | Dear ImGui | Bloat-free game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/ocornut/imgui) • [Website](https://github.com/ocornut/imgui) |
 | Nuklear | Minimal game UI toolkit | <kbd>🏷️ C</kbd> | [GitHub](https://github.com/Immediate-Mode-UI/Nuklear) • [Website](https://immediate-mode-ui.github.io/Nuklear/doc/index.html) |
 | RmlUI | HTML/CSS game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/mikke89/RmlUi) • [Website](https://mikke89.github.io/RmlUiDoc/) |
-| Coherent UI | Web-based game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=Coherent+UI) • [Website](https://coherent-labs.com/products/coherent-gameface/) |
-| Scaleform | Flash-based game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=Autodesk+Scaleform) • [Website](https://www.autodesk.com/products/scaleform/overview) |
+| Coherent UI | Web-based game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/coherentlabs) • [Website](https://coherent-labs.com/products/coherent-gameface/) |
+| Scaleform | Flash-based game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/Autodesk) • [Website](https://www.autodesk.com/products/scaleform/overview) |
 | CEGUI | Crazy Eddie's game UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/cegui/cegui) • [Website](http://cegui.org.uk) |
 | MyGUI | Fast game UI library | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/MyGUI/mygui) • [Website](http://mygui.info) |
 | Nana | C++ GUI framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/cnjinhao/nana) • [Website](http://nanapro.org/en-us/) |
 | libRocket | HTML game UI framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/librocket/librocket) • [Website](http://librocket.com) |
 | Ultralight | Lightweight web UI | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/ultralight-ux/Ultralight) • [Website](https://ultralig.ht) |
-| React Game UI | React-based game UI | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/search?q=react+game+ui) • [Website](https://github.com/search?q=react+game+ui) |
-| Kenney UI | Game UI asset pack | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Kenney+UI) • [Website](https://www.kenney.nl/assets/ui-pack) |
+| React Game UI | React-based game UI | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/facebook/react) • [Website](https://github.com/facebook/react) |
+| Kenney UI | Game UI asset pack | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/kenneyNL) • [Website](https://www.kenney.nl/assets/ui-pack) |
 | Ren'Py | Visual novel UI framework | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/renpy/renpy) • [Website](https://www.renpy.org) |
 | Twine | Interactive fiction framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/klembot/twinejs) • [Website](https://twinery.org) |
 | Ink | Narrative scripting framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/inkle/ink) • [Website](https://www.inklestudios.com/ink/) |
@@ -275,27 +275,27 @@
 
 | Framework | Description | Language | Docs |
 |------------|-------------|-----------|-------|
-| Unity Test Framework | Unity unit testing | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Unity+Test+Framework) • [Website](https://docs.unity3d.com/Packages/com.unity.test-framework@1.1/manual/index.html) |
-| Unreal Automation | Unreal testing framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=Unreal+Automation+Testing) • [Website](https://docs.unrealengine.com/en-US/TestingAndOptimization/Automation/) |
+| Unity Test Framework | Unity unit testing | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Unity-Technologies/com.unity.test-framework) • [Website](https://docs.unity3d.com/Packages/com.unity.test-framework@1.1/manual/index.html) |
+| Unreal Automation | Unreal testing framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/EpicGames/UnrealEngine) • [Website](https://docs.unrealengine.com/en-US/TestingAndOptimization/Automation/) |
 | Godot Unit Test | Godot testing framework | <kbd>🏷️ GDScript</kbd> | [GitHub](https://github.com/bitwes/Gut) • [Website](https://github.com/bitwes/Gut) |
-| GameDriver | Game test automation | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=GameDriver.io) • [Website](https://gamedriver.io) |
+| GameDriver | Game test automation | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/gamedrivertools/gamedriver) • [Website](https://gamedriver.io) |
 | Appium Game | Mobile game testing | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/appium/appium) • [Website](https://appium.io) |
 | LambdaTest | Cloud game testing | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/LambdaTest) • [Website](https://www.lambdatest.com) |
 | Selenium Game | Browser game testing | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/SeleniumHQ/selenium) • [Website](https://www.selenium.dev) |
 | Robot Framework | Game acceptance testing | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/robotframework/robotframework) • [Website](https://robotframework.org) |
 | Pytest-Unity | Python Unity testing | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/tlocke/pytest-unity) • [Website](https://github.com/tlocke/pytest-unity) |
 | AltTester | Unity game testing | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/altom-com/alt-tester) • [Website](https://altom.com/alttester/) |
-| Headspin | Mobile game performance | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Headspin) • [Website](https://www.headspin.io) |
-| GameBench | Mobile game analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=GameBench) • [Website](https://www.gamebench.net) |
-| Xcode Instruments | iOS game performance | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/search?q=Xcode+Instruments) • [Website](https://developer.apple.com/xcode/instruments/) |
-| Android Profiler | Android game profiling | <kbd>🏷️ Kotlin</kbd> | [GitHub](https://github.com/search?q=Android+Profiler) • [Website](https://developer.android.com/studio/profile) |
-| PIX | Xbox game profiling | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=PIX+on+Windows) • [Website](https://devblogs.microsoft.com/pix/) |
+| Headspin | Mobile game performance | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/HeadSpinIO) • [Website](https://www.headspin.io) |
+| GameBench | Mobile game analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/gamebench) • [Website](https://www.gamebench.net) |
+| Xcode Instruments | iOS game performance | <kbd>🏷️ Swift</kbd> | [GitHub](https://github.com/apple) • [Website](https://developer.apple.com/xcode/instruments/) |
+| Android Profiler | Android game profiling | <kbd>🏷️ Kotlin</kbd> | [GitHub](https://github.com/android) • [Website](https://developer.android.com/studio/profile) |
+| PIX | Xbox game profiling | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/microsoft/PIX) • [Website](https://devblogs.microsoft.com/pix/) |
 
 ## Game Analytics & Monetization Frameworks
 
 | Framework | Description | Language | Docs |
 |------------|-------------|-----------|-------|
-| Unity Analytics | Game analytics platform | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Unity+Analytics) • [Website](https://unity.com/solutions/gaming-services/analytics) |
+| Unity Analytics | Game analytics platform | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Unity-Technologies) • [Website](https://unity.com/solutions/gaming-services/analytics) |
 | GameAnalytics | Free game analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/GameAnalytics) • [Website](https://gameanalytics.com) |
 | Amplitude | Product analytics framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/amplitude) • [Website](https://amplitude.com) |
 | Mixpanel | User behavior analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/mixpanel) • [Website](https://mixpanel.com) |
@@ -303,18 +303,18 @@
 | Adjust | Mobile measurement platform | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/adjust) • [Website](https://www.adjust.com) |
 | Firebase Analytics | Google game analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/firebase) • [Website](https://firebase.google.com/products/analytics) |
 | DeltaDNA | Game data analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/deltaDNA) • [Website](https://unity.com/solutions/gaming-services/analytics) |
-| Liftoff | Mobile game marketing | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Liftoff.io) • [Website](https://liftoff.io) |
+| Liftoff | Mobile game marketing | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/LiftoffLabs) • [Website](https://liftoff.io) |
 | IronSource | Monetization framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/ironsource-mobile) • [Website](https://www.is.com) |
 | AppLovin | Mobile monetization platform | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/AppLovin) • [Website](https://www.applovin.com) |
-| AdMob | Google mobile advertising | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=AdMob) • [Website](https://admob.google.com/) |
-| Unity Ads | Unity monetization framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=Unity+Ads) • [Website](https://unity.com/solutions/gaming-services/monetization) |
-| Vungle | Video ad monetization | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Vungle) • [Website](https://liftoff.io/vungle/) |
+| AdMob | Google mobile advertising | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/googleads) • [Website](https://admob.google.com/) |
+| Unity Ads | Unity monetization framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/Unity-Technologies) • [Website](https://unity.com/solutions/gaming-services/monetization) |
+| Vungle | Video ad monetization | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/Vungle) • [Website](https://liftoff.io/vungle/) |
 | Chartboost | Game advertising platform | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/ChartBoost) • [Website](https://www.chartboost.com) |
 | Tapjoy | Engagement & monetization | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/Tapjoy) • [Website](https://dev.tapjoy.com) |
 | Playtika | Social game monetization | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/playtika) • [Website](https://www.playtika.com) |
-| GameRefinery | Game feature analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=GameRefinery) • [Website](https://www.gamerefinery.com) |
-| Sensor Tower | App store intelligence | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Sensor+Tower) • [Website](https://sensortower.com) |
-| data.ai | Mobile game market data | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=data.ai) • [Website](https://www.data.ai) |
+| GameRefinery | Game feature analytics | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/GameRefinery) • [Website](https://www.gamerefinery.com) |
+| Sensor Tower | App store intelligence | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/SensorTower) • [Website](https://sensortower.com) |
+| data.ai | Mobile game market data | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/data-ai) • [Website](https://www.data.ai) |
 
 ## Procedural Generation Frameworks
 
@@ -322,36 +322,36 @@
 |------------|-------------|-----------|-------|
 | Wave Function Collapse | Procedural tile generation | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/mxgmn/WaveFunctionCollapse) • [Website](https://github.com/mxgmn/WaveFunctionCollapse) |
 | Noise.js | Procedural noise framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/josephg/noisejs) • [Website](https://github.com/josephg/noisejs) |
-| LibNoise | Coherent noise generation | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=LibNoise) • [Website](http://libnoise.sourceforge.net/) |
+| LibNoise | Coherent noise generation | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/qknight/LibNoise) • [Website](http://libnoise.sourceforge.net/) |
 | FastNoiseLite | Fast noise generation library | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/Auburn/FastNoiseLite) • [Website](https://github.com/Auburn/FastNoiseLite) |
-| Perlin Noise | Classic procedural noise | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=perlin+noise) • [Website](https://en.wikipedia.org/wiki/Perlin_noise) |
-| Voronoi | Procedural map generation | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=voronoi) • [Website](https://en.wikipedia.org/wiki/Voronoi_diagram) |
-| Dungeon Generator | Procedural dungeon framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/search?q=dungeon+generator) • [Website](https://www.gamedeveloper.com/design/dungeon-generation-in-diablo-1) |
-| SpeedTree | Procedural tree generation | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=SpeedTree) • [Website](https://store.speedtree.com) |
+| Perlin Noise | Classic procedural noise | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/niklasf/perlin-noise) • [Website](https://en.wikipedia.org/wiki/Perlin_noise) |
+| Voronoi | Procedural map generation | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/gorhill/JavaScript-Voronoi) • [Website](https://en.wikipedia.org/wiki/Voronoi_diagram) |
+| Dungeon Generator | Procedural dungeon framework | <kbd>🏷️ C#</kbd> | [GitHub](https://github.com/AlexKessler/DungeonGenerator) • [Website](https://www.gamedeveloper.com/design/dungeon-generation-in-diablo-1) |
+| SpeedTree | Procedural tree generation | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/SpeedTree) • [Website](https://store.speedtree.com) |
 | Houdini | Procedural content pipeline | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/sideeffects) • [Website](https://www.sidefx.com/products/houdini/) |
-| World Machine | Terrain generation framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=World+Machine) • [Website](https://www.world-machine.com) |
-| Gaea | Terrain creation framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/search?q=Gaea+terrain) • [Website](https://quadspinner.com/gaea) |
-| L-Systems | Procedural plant generation | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=L-System) • [Website](https://en.wikipedia.org/wiki/L-system) |
+| World Machine | Terrain generation framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/world-machine) • [Website](https://www.world-machine.com) |
+| Gaea | Terrain creation framework | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/QuadSpinner) • [Website](https://quadspinner.com/gaea) |
+| L-Systems | Procedural plant generation | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/evanw/lsystems) • [Website](https://en.wikipedia.org/wiki/L-system) |
 | Tracery | Procedural text generation | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/galaxykate/tracery) • [Website](http://www.tracery.io) |
-| Midpoint Displacement | Terrain generation algorithm | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=midpoint+displacement) • [Website](https://en.wikipedia.org/wiki/Diamond-square_algorithm) |
-| Cellular Automata | Procedural cave generation | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=cellular+automata) • [Website](https://en.wikipedia.org/wiki/Cellular_automaton) |
+| Midpoint Displacement | Terrain generation algorithm | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/fogleman/delaunay) • [Website](https://en.wikipedia.org/wiki/Diamond-square_algorithm) |
+| Cellular Automata | Procedural cave generation | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/ConorOBrien/CellularAutomaton) • [Website](https://en.wikipedia.org/wiki/Cellular_automaton) |
 
 ## Game Asset & Pipeline Frameworks
 
 | Framework | Description | Language | Docs |
 |------------|-------------|-----------|-------|
 | Blender | Open-source 3D asset creation | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/blender) • [Website](https://www.blender.org) |
-| Maya | Autodesk 3D animation framework | <kbd>🏷️ MEL/Python</kbd> | [GitHub](https://github.com/search?q=Autodesk+Maya) • [Website](https://www.autodesk.com/products/maya/) |
-| 3ds Max | Autodesk 3D modeling framework | <kbd>🏷️ MAXScript</kbd> | [GitHub](https://github.com/search?q=Autodesk+3ds+Max) • [Website](https://www.autodesk.com/products/3ds-max/) |
+| Maya | Autodesk 3D animation framework | <kbd>🏷️ MEL/Python</kbd> | [GitHub](https://github.com/Autodesk) • [Website](https://www.autodesk.com/products/maya/) |
+| 3ds Max | Autodesk 3D modeling framework | <kbd>🏷️ MAXScript</kbd> | [GitHub](https://github.com/Autodesk) • [Website](https://www.autodesk.com/products/3ds-max/) |
 | Houdini | Procedural 3D pipeline | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/sideeffects) • [Website](https://www.sidefx.com/products/houdini/) |
-| Substance Painter | PBR texture painting | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/search?q=Substance+Painter) • [Website](https://www.adobe.com/products/substance-3d-painter.html) |
-| Substance Designer | Material creation framework | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/search?q=Substance+Designer) • [Website](https://www.adobe.com/products/substance-3d-designer.html) |
-| Marmoset Toolbag | Real-time rendering framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Marmoset+Toolbag) • [Website](https://marmoset.co/toolbag/) |
+| Substance Painter | PBR texture painting | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/Adobe) • [Website](https://www.adobe.com/products/substance-3d-painter.html) |
+| Substance Designer | Material creation framework | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/Adobe) • [Website](https://www.adobe.com/products/substance-3d-designer.html) |
+| Marmoset Toolbag | Real-time rendering framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/Marmoset) • [Website](https://marmoset.co/toolbag/) |
 | Aseprite | Pixel art animation tool | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/aseprite/aseprite) • [Website](https://www.aseprite.org) |
-| TexturePacker | Sprite sheet framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=TexturePacker) • [Website](https://www.codeandweb.com/texturepacker) |
-| SpriteFusion | Tilemap creation framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=SpriteFusion) • [Website](https://assetstore.unity.com/packages/tools/sprite-management/spritefusion-2-2020-edition-162354) |
+| TexturePacker | Sprite sheet framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/codeandweb) • [Website](https://www.codeandweb.com/texturepacker) |
+| SpriteFusion | Tilemap creation framework | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/Unity-Technologies) • [Website](https://assetstore.unity.com/packages/tools/sprite-management/spritefusion-2-2020-edition-162354) |
 | Tiled | Tile map editor | <kbd>🏷️ C++</kbd> | [GitHub](https://github.com/mapeditor/tiled) • [Website](https://www.mapeditor.org) |
 | LDtk | Level design toolkit | <kbd>🏷️ Haxe</kbd> | [GitHub](https://github.com/deepnight/ldtk) • [Website](https://ldtk.io) |
 | Ogmo Editor | Level editor framework | <kbd>🏷️ Haxe</kbd> | [GitHub](https://github.com/MaddyThorson/OgmoEditor3) • [Website](https://ogmoeditor.com) |
-| Kenney Assets | Free game asset library | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=Kenney+Assets) • [Website](https://www.kenney.nl) |
-| OpenGameArt | Open-source asset platform | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/search?q=OpenGameArt) • [Website](https://opengameart.org) |
+| Kenney Assets | Free game asset library | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/kenneyNL) • [Website](https://www.kenney.nl) |
+| OpenGameArt | Open-source asset platform | <kbd>🏷️ Multi</kbd> | [GitHub](https://github.com/OpenGameArt) • [Website](https://opengameart.org) |

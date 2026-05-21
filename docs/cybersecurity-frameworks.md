@@ -30,7 +30,7 @@
 | OWASP ZAP | Open-source web app scanner | <kbd>🏷️ Java</kbd> | [GitHub](https://github.com/zaproxy/zaproxy) • [Website](https://www.zaproxy.org) |
 | Cobalt Strike | Adversary simulation framework | <kbd>🏷️ Java</kbd> | [GitHub](https://github.com/Cobalt-Strike) • [Website](https://www.cobaltstrike.com) |
 | Core Impact | Enterprise penetration testing | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/coresecurity) • [Website](https://www.coresecurity.com/products/core-impact) |
-| Canvas | Vulnerability exploitation framework | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/search?q=canvas+exploitation) • [Website](https://www.immunityinc.com/products/canvas/) |
+| Canvas | Vulnerability exploitation framework | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/ImmunityInc) • [Website](https://www.immunityinc.com/products/canvas/) |
 | Exploit Pack | Exploit development framework | <kbd>🏷️ Java</kbd> | [GitHub](https://github.com/juansacco/exploitpack) • [Website](https://exploitpack.com) |
 | RouterSploit | Embedded device exploitation | <kbd>🏷️ Python</kbd> | [GitHub](https://github.com/threat9/routersploit) • [Website](https://github.com/threat9/routersploit) |
 | BeEF | Browser exploitation framework | <kbd>🏷️ JavaScript</kbd> | [GitHub](https://github.com/beefproject/beef) • [Website](https://beefproject.com) |
