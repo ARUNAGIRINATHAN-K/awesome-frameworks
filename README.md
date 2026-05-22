@@ -52,46 +52,46 @@
 
 ## Documentation Files
 
-- *[docs/web-development.md](docs/web-development.md) – Web frontend, backend, APIs, and security.*
-- *[docs/mobile-development.md](docs/mobile-development.md) – Cross-platform and native mobile frameworks.*
-- *[docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) – AI and machine learning frameworks.*
-- *[docs/quantum-computing.md](docs/quantum-computing.md) – Quantum computing and hardware frameworks.*
-- *[docs/data-science-frameworks.md](docs/data-science-frameworks.md) – Data science, analytics, and visualization frameworks.*
-- *[docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) – Blockchain, Web3, smart contracts, and dapps.*
-- *[docs/enterprise-software-frameworks.md](docs/enterprise-software-frameworks.md) – Enterprise app and business automation frameworks.*
-- *[docs/game-development-frameworks.md](docs/game-development-frameworks.md) – Game engines, physics, networking, and tools.*
-- *[docs/ar-vr-frameworks.md](docs/ar-vr-frameworks.md) – AR/VR and immersive experience frameworks.*
-- *[docs/robotics.md](docs/robotics.md) – Robotics simulation, control, and automation frameworks.*
-- *[docs/edtech.md](docs/edtech.md) – Education and learning technology frameworks.*
-- *[docs/healthtech-bioinformatics.md](docs/healthtech-bioinformatics.md) – HealthTech and bioinformatics frameworks.*
-- *[docs/scientific-research-simulation.md](docs/scientific-research-simulation.md) – Scientific research and simulation frameworks.*
-- *[docs/media-entertainment.md](docs/media-entertainment.md) – Media, entertainment, and creative frameworks.*
-- *[docs/telecommunications.md](docs/telecommunications.md) – Telecom and network systems frameworks.*
-- *[docs/government-public-sector.md](docs/government-public-sector.md) – Government and public sector frameworks.*
-- *[docs/desktop-development.md](docs/desktop-development.md) – Desktop app and native UI frameworks.*
-- *[docs/gis-geospatial.md](docs/gis-geospatial.md) – GIS and geospatial mapping frameworks.*
-- *[docs/legaltech.md](docs/legaltech.md) – LegalTech and compliance frameworks.*
-- *[docs/agritech.md](docs/agritech.md) – Agriculture and AgriTech frameworks.*
-- *[docs/spacetech.md](docs/spacetech.md) – SpaceTech and aerospace software frameworks.*
-- *[docs/saas.md](docs/saas.md) – SaaS platform and cloud application frameworks.*
-- *[docs/ecommerce-retailtech.md](docs/ecommerce-retailtech.md) – E-commerce and retail technology frameworks.*
-- *[docs/martech.md](docs/martech.md) – Marketing technology and campaign frameworks.*
-- *[docs/adtech.md](docs/adtech.md) – Advertising technology and monetization frameworks.*
-- *[docs/social-media-creator-platforms.md](docs/social-media-creator-platforms.md) – Social media and creator platform frameworks.*
-- *[docs/search-information-retrieval.md](docs/search-information-retrieval.md) – Search and information retrieval frameworks.*
-- *[docs/automation-rpa.md](docs/automation-rpa.md) – Automation and RPA frameworks.*
-- *[docs/supply-chain-logisticstech.md](docs/supply-chain-logisticstech.md) – Supply chain and logistics technology frameworks.*
-- *[docs/automotive-autonomous-systems.md](docs/automotive-autonomous-systems.md) – Automotive and autonomous systems frameworks.*
-- *[docs/semiconductor-chip-software.md](docs/semiconductor-chip-software.md) – Semiconductor and chip software frameworks.*
-- *[docs/digital-twin-industrial-software.md](docs/digital-twin-industrial-software.md) – Digital twin and industrial software frameworks.*
-- *[docs/audio-speech-technology.md](docs/audio-speech-technology.md) – Audio and speech technology frameworks.*
-- *[docs/biotech-computational-platforms.md](docs/biotech-computational-platforms.md) – BioTech computational and platform frameworks.*
-- *[docs/knowledge-management-systems.md](docs/knowledge-management-systems.md) – Knowledge management and collaboration frameworks.*
-- *[docs/developer-tools-platform-engineering.md](docs/developer-tools-platform-engineering.md) – Developer tools and platform engineering frameworks.*
-- *[docs/iot-frameworks.md](docs/iot-frameworks.md) – IoT device, edge, and connectivity frameworks.*
-- *[docs/fintech.md](docs/fintech.md) – Payments, trading, and banking technology frameworks.*
-- *[docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) – Cloud infrastructure, CI/CD, and orchestration frameworks.*
-- *[docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) – Security, identity, and threat defense frameworks.*
+- [docs/web-development.md](docs/web-development.md) – Web frontend, backend, APIs, and security.
+- [docs/mobile-development.md](docs/mobile-development.md) – Cross-platform and native mobile frameworks.
+- [docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) – AI and machine learning frameworks.
+- [docs/quantum-computing.md](docs/quantum-computing.md) – Quantum computing and hardware frameworks.
+- [docs/data-science-frameworks.md](docs/data-science-frameworks.md) – Data science, analytics, and visualization frameworks.
+- [docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) – Blockchain, Web3, smart contracts, and dapps.
+- [docs/enterprise-software-frameworks.md](docs/enterprise-software-frameworks.md) – Enterprise app and business automation frameworks.
+- [docs/game-development-frameworks.md](docs/game-development-frameworks.md) – Game engines, physics, networking, and tools.
+- [docs/ar-vr-frameworks.md](docs/ar-vr-frameworks.md) – AR/VR and immersive experience frameworks.
+- [docs/robotics.md](docs/robotics.md) – Robotics simulation, control, and automation frameworks.
+- [docs/edtech.md](docs/edtech.md) – Education and learning technology frameworks.
+- [docs/healthtech-bioinformatics.md](docs/healthtech-bioinformatics.md) – HealthTech and bioinformatics frameworks.
+- [docs/scientific-research-simulation.md](docs/scientific-research-simulation.md) – Scientific research and simulation frameworks.
+- [docs/media-entertainment.md](docs/media-entertainment.md) – Media, entertainment, and creative frameworks.
+- [docs/telecommunications.md](docs/telecommunications.md) – Telecom and network systems frameworks.
+- [docs/government-public-sector.md](docs/government-public-sector.md) – Government and public sector frameworks.
+- [docs/desktop-development.md](docs/desktop-development.md) – Desktop app and native UI frameworks.
+- [docs/gis-geospatial.md](docs/gis-geospatial.md) – GIS and geospatial mapping frameworks.
+- [docs/legaltech.md](docs/legaltech.md) – LegalTech and compliance frameworks.
+- [docs/agritech.md](docs/agritech.md) – Agriculture and AgriTech frameworks.
+- [docs/spacetech.md](docs/spacetech.md) – SpaceTech and aerospace software frameworks.
+- [docs/saas.md](docs/saas.md) – SaaS platform and cloud application frameworks.
+- [docs/ecommerce-retailtech.md](docs/ecommerce-retailtech.md) – E-commerce and retail technology frameworks.
+- [docs/martech.md](docs/martech.md) – Marketing technology and campaign frameworks.
+- [docs/adtech.md](docs/adtech.md) – Advertising technology and monetization frameworks.
+- [docs/social-media-creator-platforms.md](docs/social-media-creator-platforms.md) – Social media and creator platform frameworks.
+- [docs/search-information-retrieval.md](docs/search-information-retrieval.md) – Search and information retrieval frameworks.
+- [docs/automation-rpa.md](docs/automation-rpa.md) – Automation and RPA frameworks.
+- [docs/supply-chain-logisticstech.md](docs/supply-chain-logisticstech.md) – Supply chain and logistics technology frameworks.
+- [docs/automotive-autonomous-systems.md](docs/automotive-autonomous-systems.md) – Automotive and autonomous systems frameworks.
+- [docs/semiconductor-chip-software.md](docs/semiconductor-chip-software.md) – Semiconductor and chip software frameworks.
+- [docs/digital-twin-industrial-software.md](docs/digital-twin-industrial-software.md) – Digital twin and industrial software frameworks.
+- [docs/audio-speech-technology.md](docs/audio-speech-technology.md) – Audio and speech technology frameworks.
+- [docs/biotech-computational-platforms.md](docs/biotech-computational-platforms.md) – BioTech computational and platform frameworks.
+- [docs/knowledge-management-systems.md](docs/knowledge-management-systems.md) – Knowledge management and collaboration frameworks.
+- [docs/developer-tools-platform-engineering.md](docs/developer-tools-platform-engineering.md) – Developer tools and platform engineering frameworks.
+- [docs/iot-frameworks.md](docs/iot-frameworks.md) – IoT device, edge, and connectivity frameworks.
+- [docs/fintech.md](docs/fintech.md) – Payments, trading, and banking technology frameworks.
+- [docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) – Cloud infrastructure, CI/CD, and orchestration frameworks.
+- [docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) – Security, identity, and threat defense frameworks.
 
 ## Contributing
 
