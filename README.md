@@ -10,33 +10,40 @@
 - [Web Development Frameworks](docs/web-development.md)
 - [Mobile Development Frameworks](docs/mobile-development.md)
 - [AI/ML Frameworks](docs/ai-ml-frameworks.md)
+- [Quantum Computing Frameworks](docs/quantum-computing.md)
 - [Data Science Frameworks](docs/data-science-frameworks.md)
 - [Blockchain & Web3 Frameworks](docs/blockchain-web3-frameworks.md)
 - [Enterprise Software Frameworks](docs/enterprise-software-frameworks.md)
 - [Game Development Frameworks](docs/game-development-frameworks.md)
+- [AR/VR Frameworks](docs/ar-vr-frameworks.md)
 - [Robotics](docs/robotics.md)
-- [IoT Frameworks](docs/iot-frameworks.md)
+- [Edutech Frameworks](docs/edtech.md)
+- [HealthTech & Bioinformatics Frameworks](docs/healthtech-Bioinformation.md)
+- [Embedded Systems & IoT](docs/iot-frameworks.md)
 - [FinTech](docs/fintech.md)
 - [Cloud & DevOps Frameworks](docs/cloud-devops-frameworks.md)
 - [Cybersecurity Frameworks](docs/cybersecurity-frameworks.md)
 - [Contributing](#contributing)
 
 
-
 ## Documentation Files
 
-- *[docs/web-development.md](docs/web-development.md) – Web frontend, backend, full-stack, CSS, APIs, static sites, real-time, testing, CMS, and security.*
-- *[docs/mobile-development.md](docs/mobile-development.md) – Mobile frameworks for cross-platform, native Android/iOS, hybrid apps, PWAs, backend/BaaS, UI, testing, AR/VR, security, analytics, and payments.*
-- *[docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) – AI and machine learning frameworks for deep learning, NLP, vision, reinforcement learning, generative AI, MLOps, AutoML, federated learning, hardware, labeling, and ethics.*
-- *[docs/data-science-frameworks.md](docs/data-science-frameworks.md) – Data science frameworks for manipulation, big data, visualization, pipelines, statistics, data quality, feature engineering, storage, EDA, notebooks, governance, and BI.*
-- *[docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) – Blockchain and Web3 frameworks for smart contracts, dapps, decentralized storage, wallets, interoperability, layer 1/2, oracles, and token infrastructure.*
-- *[docs/enterprise-software-frameworks.md](docs/enterprise-software-frameworks.md) – Enterprise software frameworks for scalable business apps, cloud platforms, automation, ERP/CRM, microservices, security, DevOps, and AI platforms.*
-- *[docs/game-development-frameworks.md](docs/game-development-frameworks.md) – Game engines, 2D/3D frameworks, physics, networking, audio, AI, UI, testing, analytics, and monetization.*
-- *[docs/robotics.md](docs/robotics.md) – Robotics frameworks for simulation, control, perception, navigation, hardware integration, and automation.*
-- *[docs/iot-frameworks.md](docs/iot-frameworks.md) – IoT frameworks for device management, connectivity, edge computing, protocols, and security.*
-- *[docs/fintech.md](docs/fintech.md) – FinTech frameworks for payments, banking, trading, blockchain, compliance, and analytics.*
-- *[docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) – Cloud and DevOps frameworks for IaC, CI/CD, containerization, orchestration, serverless, monitoring, security, GitOps, networking, cost management, testing, and artifact registries.*
-- *[docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) – Cybersecurity frameworks for pentesting, network security, identity, cryptography, SIEM, app security, malware analysis, forensics, cloud security, endpoint, compliance, red/blue teams, vulnerability management, and threat intelligence.*
+- *[docs/web-development.md](docs/web-development.md) – Web frontend, backend, APIs, and security.*
+- *[docs/mobile-development.md](docs/mobile-development.md) – Cross-platform and native mobile frameworks.*
+- *[docs/ai-ml-frameworks.md](docs/ai-ml-frameworks.md) – AI and machine learning frameworks.*
+- *[docs/quantum-computing.md](docs/quantum-computing.md) – Quantum computing and hardware frameworks.*
+- *[docs/data-science-frameworks.md](docs/data-science-frameworks.md) – Data science, analytics, and visualization frameworks.*
+- *[docs/blockchain-web3-frameworks.md](docs/blockchain-web3-frameworks.md) – Blockchain, Web3, smart contracts, and dapps.*
+- *[docs/enterprise-software-frameworks.md](docs/enterprise-software-frameworks.md) – Enterprise app and business automation frameworks.*
+- *[docs/game-development-frameworks.md](docs/game-development-frameworks.md) – Game engines, physics, networking, and tools.*
+- *[docs/ar-vr-frameworks.md](docs/ar-vr-frameworks.md) – AR/VR and immersive experience frameworks.*
+- *[docs/robotics.md](docs/robotics.md) – Robotics simulation, control, and automation frameworks.*
+- *[docs/edtech.md](docs/edtech.md) – Education and learning technology frameworks.*
+- *[docs/healthtech-bioinformatics.md](docs/healthtech-bioinformatics.md) – Healthdical and bioinformatics framework software frameworks.*
+- *[docs/iot-frameworks.md](docs/iot-frameworks.md) – IoT device, edge, and connectivity frameworks.*
+- *[docs/fintech.md](docs/fintech.md) – Payments, trading, and banking technology frameworks.*
+- *[docs/cloud-devops-frameworks.md](docs/cloud-devops-frameworks.md) – Cloud infrastructure, CI/CD, and orchestration frameworks.*
+- *[docs/cybersecurity-frameworks.md](docs/cybersecurity-frameworks.md) – Security, identity, and threat defense frameworks.*
 
 ## Contributing
 
