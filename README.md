@@ -18,7 +18,7 @@
 - [AR/VR Frameworks](docs/ar-vr-frameworks.md)
 - [Robotics](docs/robotics.md)
 - [Edutech Frameworks](docs/edtech.md)
-- [HealthTech & Bioinformatics Frameworks](docs/healthtech-Bioinformation.md)
+- [HealthTech & Bioinformatics Frameworks](docs/healthtech-bioinformatics.md)
 - [Scientific Research & Simulation](docs/scientific-research-simulation.md)
 - [Media & Entertainment](docs/media-entertainment.md)
 - [Telecommunications](docs/telecommunications.md)
@@ -63,7 +63,7 @@
 - *[docs/ar-vr-frameworks.md](docs/ar-vr-frameworks.md) – AR/VR and immersive experience frameworks.*
 - *[docs/robotics.md](docs/robotics.md) – Robotics simulation, control, and automation frameworks.*
 - *[docs/edtech.md](docs/edtech.md) – Education and learning technology frameworks.*
-- *[docs/healthtech-Bioinformation.md](docs/healthtech-Bioinformation.md) – HealthTech and bioinformatics frameworks.*
+- *[docs/healthtech-bioinformatics.md](docs/healthtech-bioinformatics.md) – HealthTech and bioinformatics frameworks.*
 - *[docs/scientific-research-simulation.md](docs/scientific-research-simulation.md) – Scientific research and simulation frameworks.*
 - *[docs/media-entertainment.md](docs/media-entertainment.md) – Media, entertainment, and creative frameworks.*
 - *[docs/telecommunications.md](docs/telecommunications.md) – Telecom and network systems frameworks.*
